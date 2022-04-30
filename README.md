@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/2ZBxjyu.png" width="340" />
-  <h1>Ethereum Balance Checker</h1>
+  <h1>EVM Chain Balance Checker</h1>
 </p>
 
 A smart contract and library pair that allows you to check for multiple ERC20
@@ -26,21 +25,49 @@ The main contract is in `contracts/BalanceChecker.sol`. Its associated ABI is in
 contract.
 
 #### Deployed Addresses
+Ethereum
+- Mainnet: `0xb1f8e55c7f64d203c1400b9d8555d050f94adf39`
+- Ropsten: `0x8D9708f3F514206486D7E988533f770a16d074a7`
+- Rinkeby: `0x3183B673f4816C94BeF53958BaF93C671B7F8Cf2`
+- Kovan: `0x55ABBa8d669D60A10c104CC493ec5ef389EC92bb`
+- Goerli: `0x9788C4E93f9002a7ad8e72633b11E8d1ecd51f9b`
 
-- mainnet: `0xb1f8e55c7f64d203c1400b9d8555d050f94adf39`
-- ropsten: `0x8D9708f3F514206486D7E988533f770a16d074a7`
-- rinkeby: `0x3183B673f4816C94BeF53958BaF93C671B7F8Cf2`
-- kovan: `0x55ABBa8d669D60A10c104CC493ec5ef389EC92bb`
-- goerli: `0x9788C4E93f9002a7ad8e72633b11E8d1ecd51f9b`
-- binance smart chain mainnet: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
-- binance smart chain testnet: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
-- polygon: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
-- mumbai: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
-- Optimism: `0xB1c568e9C3E6bdaf755A60c7418C269eb11524FC`
+Binance Smart Chain
+- Mainnet: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
+- Testnet: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
+
+Polygon
+- Mainnet: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
+- Mumbai: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
+
+Optimism
+- Mainnet: `0xB1c568e9C3E6bdaf755A60c7418C269eb11524FC`
 - Optimism Kovan: `0xB1c568e9C3E6bdaf755A60c7418C269eb11524FC`
-- arbitrum: `0x151E24A486D7258dd7C33Fb67E4bB01919B7B32c`
-- avalanche: `0xD023D153a0DFa485130ECFdE2FAA7e612EF94818`
-- fantom: `0x07f697424ABe762bB808c109860c04eA488ff92B`
+
+Arbitrum
+- Mainnet: `0x151E24A486D7258dd7C33Fb67E4bB01919B7B32c`
+
+Avalanche
+- Mainnet: `0xD023D153a0DFa485130ECFdE2FAA7e612EF94818`
+
+Fantom
+- Mainnet: `0x07f697424ABe762bB808c109860c04eA488ff92B`
+
+Cronos
+- Mainnet: `0x56a4420cb0ef5b0d14ce1bbe380992fa31d6a907`
+
+OKC
+- Mainnet: `0x25B3584f4799F788c0189dd6496b0AA02cBA4605`
+
+Kucoin Community Chain
+- Mainnet: `0x25B3584f4799F788c0189dd6496b0AA02cBA4605`
+
+Harmony
+- Mainnet Shard 0: `0x549b6A5A3027F9B73A23Db4bb95701bAcb9b9573`
+
+XinFin Network
+- Mainnet: `0x25B3584f4799F788c0189dd6496b0AA02cBA4605`
+
 
 ### Library
 
